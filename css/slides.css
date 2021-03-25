@@ -387,6 +387,7 @@ blockquote.tiny {
   line-height: 1.625;
   margin-bottom: 12px;
   font-weight: 400;
+  text-align: left;
 }
 p.micro,
 .p.micro,
