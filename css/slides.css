@@ -433,6 +433,10 @@ small .small {
     margin-bottom: 20px;
   }
 
+  .devops {
+    font-size: 20px !important;
+    text-align: left !important;
+  }
   p.hero {
     font-size: 22px;
   }
