@@ -3300,7 +3300,7 @@ html.mobile .showForMobileInline {
 .chain .slide.before {
   -webkit-transform: translate3D(0, -100%, 0);
   transform: translate3D(0, -100%, 0);
-  opacity: 2;
+  opacity: 0;
 }
 
 .chain .slide.after {
