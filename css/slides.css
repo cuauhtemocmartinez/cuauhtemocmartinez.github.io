@@ -1456,6 +1456,10 @@ p.uppercase,
 }
 
 /*default*/
+.fade-0 .content {
+  background: rgba(0, 0, 0, 0);
+}
+
 .fade-1 .content {
   background: rgba(0, 0, 0, 0.1);
 }
