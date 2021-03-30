@@ -2512,7 +2512,7 @@ html.mobile .showForMobileInline {
   height: 100%;
   color: #fff;
   z-index: 500;
-  background: #0e0e0e;
+  background: #5a5a5a;
   -webkit-transform: translateX(100%);
   transform: translateX(100%);
   overflow-y: auto;
